@@ -1,0 +1,57 @@
+[
+  {
+    "name": "安妮",
+    "sex": "女",
+    "age": "21~24",
+    "height": "171~175",
+    "weight": "46~49",
+    "colour": "黄",
+    "faceShape": "瓜子脸",
+    "bust": "36B~36D",
+    "photo": "photo_anni"
+  },
+  {
+    "name": "安娜",
+    "sex": "女",
+    "age": "17~20",
+    "height": "166~170",
+    "weight": "46~49",
+    "colour": "黄",
+    "faceShape": "菱形脸",
+    "bust": "36B~36D",
+    "photo": "photo_anna"
+  },
+  {
+    "name": "安瑶",
+    "sex": "女",
+    "age": "21~24",
+    "height": "166~170",
+    "weight": "50~53",
+    "colour": "黄",
+    "faceShape": "方形脸",
+    "bust": "34D~36A",
+    "photo": "photo_anyao"
+  },
+  {
+    "name": "安冉",
+    "sex": "女",
+    "age": "21~24",
+    "height": "166~170",
+    "weight": "46~49",
+    "colour": "黄",
+    "faceShape": "瓜子脸",
+    "bust": "34A~34C",
+    "photo": "photo_anran"
+  },
+  {
+    "name": "安洁",
+    "sex": "女",
+    "age": "21~24",
+    "height": "171~175",
+    "weight": "46~49",
+    "colour": "黄",
+    "faceShape": "长形脸",
+    "bust": "36B~36D",
+    "photo": "photo_anjie"
+  }
+]
