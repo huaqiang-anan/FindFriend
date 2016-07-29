@@ -1,1 +1,2 @@
 # FindFriend
+kotlin，是一种Google提供的开发android的语言，简单便捷！有喜欢这门语言的大家可以一起讨论学习哟！
